@@ -1,0 +1,9 @@
+
+> RiceBookServer@0.0.0 test /Users/lizk/study/rice/2017spring/531heroku/hw6-backend
+> mocha --opts mocha.opts src/**/*.spec.js "--reporter" "xunit"
+
+200
+<testsuite name="Mocha Tests" tests="2" failures="0" errors="0" skipped="0" timestamp="Thu, 06 Apr 2017 02:07:43 GMT" time="0.041">
+<testcase classname="Validate Article functionality" name="should add one article and and get the updatedhealine with correct new value" time="0.011"/>
+<testcase classname="Unit test to validate PUT /headline" name="should update the headline, and get the updated healine with correct new value" time="0.003"/>
+</testsuite>
